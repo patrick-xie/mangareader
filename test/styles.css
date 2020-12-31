@@ -1,0 +1,22 @@
+body {
+
+}
+
+.grid{
+    display: grid;
+    font-size: 30px; 
+    text-align: center;
+    padding: 200px;
+    list-style-type: none;
+
+}
+  
+h1 {
+}
+
+p {
+}
+
+li{
+    list-style-type: none;
+}
