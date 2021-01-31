@@ -1,5 +1,5 @@
 See it live at: https://manga-reader-conan.herokuapp.com/
-
+Still a work in progress.
 ## Preview:
 
 ![updatedpage1](https://user-images.githubusercontent.com/47607915/104952406-60427f00-5992-11eb-88aa-94cc98955752.PNG)
